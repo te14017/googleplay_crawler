@@ -1,0 +1,14 @@
+/usr/src/app/src/main/java/utils/EnvReader.java
+/usr/src/app/src/main/java/crawler/appbrain/AppBrainCrawler.java
+/usr/src/app/src/main/java/crawler/appids/AppIdsCrawler.java
+/usr/src/app/src/main/java/db/DBWriter.java
+/usr/src/app/src/main/java/crawler/appbrain/AppBrainLauncher.java
+/usr/src/app/src/main/java/utils/SafariWebDriverUtils.java
+/usr/src/app/src/main/java/crawler/appids/AppIdsLauncher.java
+/usr/src/app/src/main/java/crawler/appinfo/AppInfo.java
+/usr/src/app/src/main/java/crawler/AbstractCrawler.java
+/usr/src/app/src/main/java/crawler/AbstractLauncher.java
+/usr/src/app/src/main/java/crawler/appinfo/AppsInfosCrawler.java
+/usr/src/app/src/main/java/utils/RemoteWebDriverUtils.java
+/usr/src/app/src/main/java/crawler/appinfo/AppsInfosLauncher.java
+/usr/src/app/src/main/java/utils/WebDriverUtils.java

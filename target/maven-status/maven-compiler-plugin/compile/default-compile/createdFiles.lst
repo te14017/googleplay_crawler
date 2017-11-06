@@ -1,0 +1,14 @@
+utils/RemoteWebDriverUtils.class
+crawler/appbrain/AppBrainLauncher.class
+crawler/appids/AppIdsLauncher.class
+crawler/AbstractLauncher.class
+crawler/appinfo/AppsInfosLauncher.class
+crawler/appinfo/AppsInfosCrawler.class
+db/DBWriter.class
+utils/SafariWebDriverUtils.class
+utils/WebDriverUtils.class
+crawler/appbrain/AppBrainCrawler.class
+utils/EnvReader.class
+crawler/appids/AppIdsCrawler.class
+crawler/appinfo/AppInfo.class
+crawler/AbstractCrawler.class
